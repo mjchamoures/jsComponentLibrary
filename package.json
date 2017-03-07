@@ -25,9 +25,11 @@
   "private": true,
   "dependencies": {
     "chai": "^3.5.0",
+    "es6": "0.0.7",
     "express": "^4.14.1",
     "mocha": "^3.2.0",
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "strict-mode": "^1.0.1"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
